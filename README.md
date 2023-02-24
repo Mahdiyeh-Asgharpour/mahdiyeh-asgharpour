@@ -32,9 +32,6 @@
 ⭐🚀 GitHub 
 </p>  
 <div align="center" position:"block">
-<a href="https://github.com/mahdiyeh-asgharpour">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdiyeh-asgharpour=dracula&hide_langs_below=1" />
-</a>
 <a href="https://github.com/mahdiyeh-asgharpour" position:"block">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdiyeh-asgharpour&layout=compact&langs_count=7&theme=dracula"/>
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mahdiyeh-asgharpour&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
