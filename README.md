@@ -4,8 +4,8 @@
 
 ## 📑 Sobre mim:
 
-- 🌱 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando **Técnico em Informática** na <a href="https://www.ulbra.br/sao-lucas">Ulbra São Lucas</a>.
+- 🌱 &nbsp;Front end.
+- 🎓 &nbsp;CE at BNUT.
 
 <p align="left">
 🌎 Contatos e redes sociais: ⤵️
