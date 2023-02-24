@@ -36,7 +36,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdiyeh-asgharpour=dracula&hide_langs_below=1" />
 </a>
 <a href="https://github.com/mahdiyeh-asgharpour">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdiyeh-asgharpour&layout=compact&langs_count=7&theme=dracula"
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdiyeh-asgharpour&layout=compact&langs_count=7&theme=dracula">
 </a>
 </div>  
 
