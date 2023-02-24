@@ -33,8 +33,8 @@
 </p>  
 <div align="center" position:"block">
 <a href="https://github.com/mahdiyeh-asgharpour" position:"block">
-<img align="center" height="580em" width="580em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdiyeh-asgharpour&layout=compact&langs_count=7&theme=dracula"/>
- <img height="580em" width="580em" src="https://github-readme-stats.vercel.app/api?username=mahdiyeh-asgharpour&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img align="center" height="380em" width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdiyeh-asgharpour&layout=compact&langs_count=7&theme=dracula"/>
+ <img height="380em" width="380em" src="https://github-readme-stats.vercel.app/api?username=mahdiyeh-asgharpour&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </a>
  
 </div>  
