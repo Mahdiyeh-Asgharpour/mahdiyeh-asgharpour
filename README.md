@@ -19,8 +19,7 @@
   <a href="#" alt="Instagram" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-1877F2?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   
-  <a href="https://github.com/mahdiyeh-asgharpour">
-  <img width="200em" height="100em" src="https://logos-world.net/wp-content/uploads/2020/11/GitHub-Logo-2013-present-700x394.png"/></a>
+ 
   
 
    
