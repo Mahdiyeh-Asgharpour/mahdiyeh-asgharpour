@@ -48,6 +48,6 @@
 -->
 
  
-![mahdiyeh-asgharpour snake gif](https://github.com/mahdiyeh-asgharpour/mahdiyeh-asgharpour/blob/output/github-contribution-grid-snake.svg)
+<!-- ![mahdiyeh-asgharpour snake gif](https://github.com/mahdiyeh-asgharpour/mahdiyeh-asgharpour/blob/output/github-contribution-grid-snake.svg) -->
 
 
