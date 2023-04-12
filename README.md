@@ -46,11 +46,8 @@
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 -->
-<div align="center">
-  <a href="https://github.com/mahdiyeh-asgharpour">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mahdiyeh-asgharpour&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdiyeh-asgharpour&layout=compact&langs_count=7&theme=dracula"/>
 
+ 
 ![mahdiyeh-asgharpour snake gif](https://github.com/mahdiyeh-asgharpour/mahdiyeh-asgharpour/blob/output/github-contribution-grid-snake.svg)
 
-</div>
+
