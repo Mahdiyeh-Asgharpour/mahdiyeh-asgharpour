@@ -48,5 +48,18 @@
 
 
 
+⭐🚀 GitHub Estatísticas
+</p>  
+<div align="center">
+<a href="https://github.com/Mahdiyeh-Asgharpour/Mahdiyeh-Asgharpour">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahdiyeh-Asgharpour=dracula&hide_langs_below=1" />
+</a>
+<a href="https://github.com/PriscilaButzke/PriscilaButzke">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mahdiyeh-Asgharpour&show_icons=true&theme=dracula"
+</a>
+</div>  
+
+![Snake animation](https://github.com/Mahdiyeh-Asgharpour/Mahdiyeh-Asgharpour/blob/output/github-contribution-grid-snake.svg)
+
 
 
