@@ -13,7 +13,7 @@
 
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mahdiyeh-asgharpour-33302323b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B1ae4wIqtRAiS3IihvUIe1w%3D%3D" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/mahdiyeh-asgharpour" alt="Linkedin">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   
 <!--   <a href="#" alt="Instagram" target="_blank">
