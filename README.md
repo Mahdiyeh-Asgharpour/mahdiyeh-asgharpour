@@ -4,7 +4,7 @@
 
 ## 📑About me:
 
-- 🌱 &nbsp;Front end.
+- 🌱 &nbsp;AI.
 - 🎓 &nbsp;CE at BNUT.
 
 <p align="left">
