@@ -115,8 +115,9 @@
 <p>
   <div align="center">
     <a href="https://github.com/Mahdiyeh-Asgharpour/Mahdiyeh-Asgharpour">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahdiyeh-Asgharpour=dracula&hide_langs_below=1" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahdiyeh-Asgharpour=swift&hide_langs_below=1" />
     </a>
+    <br>
     <a href="https://github.com/Mahdiyeh-Asgharpour/Mahdiyeh-Asgharpour">
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mahdiyeh-Asgharpour&show_icons=true&theme=swift"
     </a>
