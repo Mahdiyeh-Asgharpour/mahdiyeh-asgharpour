@@ -11,13 +11,11 @@
 🌎 Accounts: ⤵️
 </p>
 
-<!--
+
 <p align="center">
   <a href="https://www.linkedin.com/in/mahdiyeh-asgharpour" alt="Linkedin">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>-->
-<div align="center">
-  <img src="https://www.linkedin.com/in/mahdiyeh-asgharpour" width="52" height="40" alt="linkedin logo"  />
-</div>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
 
 <!--   <a href="#" alt="Instagram" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-1877F2?style=for-the-badge&logo=instagram&logoColor=white"/></a> -->
@@ -115,12 +113,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mahdiyeh-Asgharpour&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=swift&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
   <img src="https://streak-stats.demolab.com?user=Mahdiyeh-Asgharpour&locale=en&mode=daily&theme=swift&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/Mahdiyeh-Asgharpour/Mahdiyeh-Asgharpour/output/snake.svg" alt="Snake animation" />
-
-###
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=Mahdiyeh-Asgharpour&theme=dark_lover&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
