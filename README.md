@@ -1,5 +1,7 @@
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=27px height=27px></img> Hi</h1>
-
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Mahdiyeh-Asgharpour.Mahdiyeh-Asgharpour&right_color=darksalmon"  />
+</div>
 
 
 ## 📑About me:
@@ -73,9 +75,7 @@
 -->
 
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Mahdiyeh-Asgharpour.Mahdiyeh-Asgharpour&right_color=darksalmon"  />
-</div>
+
 
 <h3 align="left">🛠 Language and tools:</h3>
 
@@ -102,7 +102,7 @@
 <h3 align="left">🔥   My Stats :</h3>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Mahdiyeh-Asgharpour&locale=en&mode=daily&theme=swift&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=Mahdiyeh-Asgharpour&locale=en&mode=daily&theme=swift&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
 </div>
 
 <p>
@@ -119,6 +119,6 @@
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=Mahdiyeh-Asgharpour&theme=dark_lover&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahdiyeh-Asgharpour&radius=16&theme=github-light&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahdiyeh-Asgharpour&radius=16&theme=github-light&area=true&order=5" height="250" alt="activity-graph graph"  />
 </div>
 
