@@ -31,9 +31,8 @@
 ⭐🚀 GitHub 
 </p>  
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Mahdiyeh-Asgharpour&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="110" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=Mahdiyeh-Asgharpour&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
 </div>
-<br clear="both">
 <div align="center" position:"block">
 <a href="https://github.com/Mahdiyeh-Asgharpour" position:"block">
 <img align="center" height="380em" width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahdiyeh-Asgharpour&layout=compact&langs_count=7&theme=dracula"/>
