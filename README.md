@@ -107,14 +107,14 @@
 
 <div align="center" position:"block">
 <a href="https://github.com/Mahdiyeh-Asgharpour" position:"block">
-<img align="center" height="380em" width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahdiyeh-Asgharpour&layout=compact&langs_count=7&theme=swift"/>
- <img height="380em" width="380em" src="https://github-readme-stats.vercel.app/api?username=Mahdiyeh-Asgharpour&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/>
+<img align="center" height="200" width="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahdiyeh-Asgharpour&layout=compact&langs_count=7&theme=swift"/>
+ <img height="200" width="200" src="https://github-readme-stats.vercel.app/api?username=Mahdiyeh-Asgharpour&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/>
 </a>
  
 </div>  
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahdiyeh-Asgharpour&radius=16&theme=github-light&area=true&order=5" height="250" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahdiyeh-Asgharpour&radius=16&theme=github-light&area=true&order=5" height="270" alt="activity-graph graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=Mahdiyeh-Asgharpour&theme=swift&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
