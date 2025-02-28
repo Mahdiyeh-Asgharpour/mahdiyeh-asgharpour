@@ -105,17 +105,13 @@
   <img src="https://streak-stats.demolab.com?user=Mahdiyeh-Asgharpour&locale=en&mode=daily&theme=swift&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
 </div>
 
-<p>
-  <div align="center">
-    <a href="https://github.com/Mahdiyeh-Asgharpour/Mahdiyeh-Asgharpour">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahdiyeh-Asgharpour=swift&hide_langs_below=1" />
-    </a>
-    <br><br>
-    <a href="https://github.com/Mahdiyeh-Asgharpour/Mahdiyeh-Asgharpour">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mahdiyeh-Asgharpour&show_icons=true&theme=swift">
-    </a>
-  </div>  
-</p>
+<div align="center" position:"block">
+<a href="https://github.com/Mahdiyeh-Asgharpour" position:"block">
+<img align="center" height="380em" width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahdiyeh-Asgharpour&layout=compact&langs_count=7&theme=swift"/>
+ <img height="380em" width="380em" src="https://github-readme-stats.vercel.app/api?username=Mahdiyeh-Asgharpour&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/>
+</a>
+ 
+</div>  
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=Mahdiyeh-Asgharpour&theme=dark_lover&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
