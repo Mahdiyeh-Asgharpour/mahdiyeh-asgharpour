@@ -120,9 +120,6 @@
     <br><br>
     <br><br>
     <br><br>
-    <br><br>
-    <br><br>
-    <br><br>
     <a href="https://github.com/Mahdiyeh-Asgharpour/Mahdiyeh-Asgharpour">
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mahdiyeh-Asgharpour&show_icons=true&theme=swift">
     </a>
