@@ -73,16 +73,12 @@
 -->
 
 
-
-###
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Mahdiyeh-Asgharpour.Mahdiyeh-Asgharpour&right_color=darksalmon"  />
 </div>
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Language and tools:</h3>
 
-###
 
 <br clear="both">
 
@@ -101,12 +97,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="selenium logo"  />
 </div>
-
-###
+---
 
 <h3 align="left">🔥   My Stats :</h3>
-
-###
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Mahdiyeh-Asgharpour&locale=en&mode=daily&theme=swift&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
@@ -129,4 +122,3 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahdiyeh-Asgharpour&radius=16&theme=github-light&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
-###
