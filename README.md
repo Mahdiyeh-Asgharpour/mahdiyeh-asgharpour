@@ -117,7 +117,7 @@
 <div align="center" position:"block">
 <a href="https://github.com/Mahdiyeh-Asgharpour" position:"block">
 <img src="https://streak-stats.demolab.com?user=Mahdiyeh-Asgharpour&locale=en&mode=daily&theme=swift&hide_border=false&border_radius=5&order=3" height="450" width="450" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahdiyeh-Asgharpour&radius=16&theme=github-light&area=true&order=5&layout=compact&langs_count=7" height="580" width="580" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahdiyeh-Asgharpour&radius=16&theme=github-light&area=true&order=5&layout=compact&langs_count=7" height="550" width="550" alt="activity-graph graph"  />
 </a>
  </div>  
 
