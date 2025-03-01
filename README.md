@@ -101,21 +101,23 @@
 
 <h3 align="left">🔥   My Stats :</h3>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Mahdiyeh-Asgharpour&locale=en&mode=daily&theme=swift&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
-</div>
-
 <div align="center" position:"block">
 <a href="https://github.com/Mahdiyeh-Asgharpour" position:"block">
 <img align="center" height="400em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahdiyeh-Asgharpour&layout=compact&langs_count=7&theme=swift"/>
  <img height="380em" width="380em" src="https://github-readme-stats.vercel.app/api?username=Mahdiyeh-Asgharpour&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/>
 </a>
- 
 </div>  
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahdiyeh-Asgharpour&radius=16&theme=github-light&area=true&order=5" height="270" alt="activity-graph graph"  />
-  <br><br>
-  <img src="https://github-profile-trophy.vercel.app?username=Mahdiyeh-Asgharpour&theme=swift&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
+  </div>
+
+
+<div align="center" position:"block">
+<a href="https://github.com/Mahdiyeh-Asgharpour" position:"block">
+<img src="https://streak-stats.demolab.com?user=Mahdiyeh-Asgharpour&locale=en&mode=daily&theme=swift&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
+<img src="https://github-profile-trophy.vercel.app?username=Mahdiyeh-Asgharpour&theme=swift&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</a>
+ </div>  
+
 
