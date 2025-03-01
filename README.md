@@ -77,7 +77,7 @@
 
 
 
-##🛠 Language and tools:
+## 🛠Language and tools:
 
 
 <br clear="both">
@@ -99,7 +99,7 @@
 </div>
 
 
-##🔥   My Stats :
+## 🔥My Stats :
 
 <div align="center" position:"block">
 <a href="https://github.com/Mahdiyeh-Asgharpour" position:"block">
