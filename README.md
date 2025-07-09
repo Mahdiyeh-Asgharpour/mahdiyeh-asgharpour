@@ -19,7 +19,7 @@ I'm a computer engineering graduate, passionate about **Artificial Intelligence 
 
 
 <p align="left">
-🌎 You can also find me on other platforms where I share my work and connect with the tech community: ⤵️
+🌎 You can also find me on other platforms: ⤵️
 </p>
 
 
