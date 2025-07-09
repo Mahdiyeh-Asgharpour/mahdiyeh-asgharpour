@@ -1,6 +1,12 @@
-<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=27px height=27px></img> Hi</h1>
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" /> Hey there!
+</h1>
+<p align="center">
+  Welcome to my GitHub!  
+  <img src="https://media.tenor.com/3fG7-Xcj61IAAAAd/rocket-spaceship-launch.gif" width="30px" />  
+</p>
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Mahdiyeh-Asgharpour.Mahdiyeh-Asgharpour&right_color=darksalmon"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Mahdiyeh-Asgharpour.Mahdiyeh-Asgharpour&right_color=darksalmon" />
 </div>
 
 
