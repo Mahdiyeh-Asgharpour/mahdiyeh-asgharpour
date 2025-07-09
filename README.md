@@ -4,10 +4,20 @@
 </div>
 
 
-## 📑About me:
+## 👩‍💻 About Me
 
-- 🌱 &nbsp;AI.
-- 🎓 &nbsp;CE at BNUT.
+I'm a computer engineering graduate, passionate about **Artificial Intelligence 🤖**, **Machine Learning**, and **Natural Language Processing (NLP)**. I enjoy working with data, building deep learning models, and turning theory into real-world projects.
+
+✨ Most of my work is focused on tools like **Python**, **TensorFlow**, **Pandas**, **OpenCV**, and **Hazm**. My projects are mostly about **data analysis**, **object detection**, and **processing Persian text**.
+
+📂 In this GitHub, you can find projects on:  
+- 🧠 Object detection using deep CNNs  
+- 📊 Data mining and analysis with real datasets  
+- 📝 NLP tools for the Persian language  
+- 📚 AI-based academic and personal projects  
+
+Always learning, always building! 🚀
+
 
 <p align="left">
 🌎 Accounts: ⤵️
