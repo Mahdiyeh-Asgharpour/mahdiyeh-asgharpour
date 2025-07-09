@@ -11,7 +11,7 @@ I'm a computer engineering graduate, passionate about **Artificial Intelligence 
 ✨ Most of my work is focused on tools like **Python**, **TensorFlow**, **Pandas**, **OpenCV**, and **Hazm**. My projects are mostly about **data analysis**, **object detection**, and **processing Persian text**.
 
 📂 In this GitHub, you can find projects on:  
-- 🧠 Object detection using deep CNNs  
+- 🛰️ Object detection using deep CNNs  
 - 📊 Data mining and analysis with real datasets  
 - 📝 NLP tools for the Persian language  
 - 📚 AI-based academic and personal projects  
