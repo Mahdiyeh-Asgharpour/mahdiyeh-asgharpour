@@ -16,11 +16,10 @@ I'm a computer engineering graduate, passionate about **Artificial Intelligence 
 - 📝 NLP tools for the Persian language  
 - 📚 AI-based academic and personal projects  
 
-Always learning, always building! 🚀
 
 
 <p align="left">
-🌎 Accounts: ⤵️
+🌎 You can also find me on other platforms where I share my work and connect with the tech community: ⤵️
 </p>
 
 
